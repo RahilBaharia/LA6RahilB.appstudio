@@ -6,7 +6,7 @@ Radiobutton1.onchange=function(){
 
 
 Select1.onchange=function(){
-  let selectVal = Select1.value
+  let selectVal = Select1.valu
 }
 
 
