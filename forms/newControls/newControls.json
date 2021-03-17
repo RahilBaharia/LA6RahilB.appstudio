@@ -14,54 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Button1.json"
+        "Label4.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Button2.json"
+        "Input3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Label1.json"
+        "Radiobutton1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Input1.json"
+        "Select1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Label2.json"
+        "Dropdown1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "newControls",
         "Elements",
-        "Label3.json"
+        "Button6.json"
       ]
     }
   ],
@@ -71,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "newControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -84,8 +84,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
